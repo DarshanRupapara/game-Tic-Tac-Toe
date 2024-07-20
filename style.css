@@ -1,0 +1,52 @@
+
+.first {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.main {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(185, 185, 219);
+    margin: 1PX;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    cursor: pointer;
+    /* color: rgb(219, 12, 12); */
+
+
+}
+
+.center {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+  
+}
+
+#win {
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    margin: 10px 660px;
+    width: 1000px;
+}
+
+#a {
+    font-size: 30px;
+    color: rgb(165, 129, 129);
+    margin: 10px 605px;
+    width: 1000px;
+}
+
+#b {
+    font-size: 30px;
+    color: rgb(165, 129, 129);
+    margin: 10px 605px;
+    width: 1000px;
+}
