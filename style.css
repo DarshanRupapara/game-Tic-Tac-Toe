@@ -1,4 +1,7 @@
-
+*{
+    box-sizing: border-box;
+    over-flow: hidden;
+}
 .first {
     display: flex;
     justify-content: center;
